@@ -2,7 +2,7 @@ import React from 'react'
 
 const home = () => {
   return (
-    <div>idndncind</div>
+    <div>home</div>
   )
 }
 
