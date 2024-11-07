@@ -26,6 +26,7 @@ const Modal = ({productId}: Props) => {
     setISubmitting(true);
 
     await addUserEmailToProduct (productId,email);
+    // okay just foir testing
 
     setISubmitting(false)
     setEmail('')
